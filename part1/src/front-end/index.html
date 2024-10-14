@@ -1,15 +1,21 @@
+<!-- src/front-end/index.html -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My First HTML Document</title>
-    <link rel="stylesheet" href="styles.css">
-    <script src="script.js" defer></script> 
+    <title>My Flask App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
 </head>
 <body>
-    <header>
-        
-    </header>
+    <h1>Welcome to My Flask App!</h1>
+    <form action="/submit" method="post">
+        <input type="text" name="fornavn" placeholder="Enter your first name" required>
+        <input type="text" name="etternavn" placeholder="Enter your last name" required>
+        <input type="text" name="telefonnummer" placeholder="Enter your phone number" required>
+        <button type="submit">Submit</button>
+    </form>
 </body>
 </html>

@@ -21,9 +21,16 @@
   - I have decided on what I will be creating for this semester. I will be creating a Online Shop. A Finn 2.0 
   - Ive written a ["Planning"](../docs/Part1%20Planning.md). Check it out to get more detailes.
   - Ive made all the folders I will need for this project (I think). Same with some files. Ive created most of the front-end files such as `HTML`, `CSS` & `JavaScript`.
-  - I have looked at some websites such as [NVIDIA](https://www.nvidia.com/nb-no/), [Bose](https://www.bose.com/home), [Dell](https://www.dell.com/no-no), [Razer](https://www.razer.com/), [SONY](https://www.sony.com/en/), [ONEPLUS](https://www.oneplus.com/no) & [Microsoft](https://www.microsoft.com/en-us/store/b/sale)
+  - I have looked at some websites such as 
+  [NVIDIA](https://www.nvidia.com/nb-no/), 
+  [Bose](https://www.bose.com/home), 
+  [Dell](https://www.dell.com/no-no), 
+  [Razer](https://www.razer.com/), 
+  [SONY](https://www.sony.com/en/), 
+  [ONEPLUS](https://www.oneplus.com/no) & 
+  [Microsoft](https://www.microsoft.com/en-us/store/b/sale)
     - The one I thought fits my style and idea is [Microsoft](https://www.microsoft.com/en-us/store/b/sale).
-  - Im going to see if I have time to create the most simple structure for my website
+  - Although, I will use minimal css, my website will only be created to be functional and not styled.
 #### 10/15/2024
 - **Activities/Notes:**
   - [Add details here]
