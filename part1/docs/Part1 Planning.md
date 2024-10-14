@@ -1,21 +1,21 @@
 # VG2 Term Project: Finn.no 2.0
 
 ### Table of Contents
-1. [Project Overview](#project-overview)
-2. [Concept Summary](#concept-summary)
-3. [Key Features](#key-features)
-   1. [Infrastructure](#infrastructure)
-   2. [Code](#code)
-   3. [Backup & Security](#backup-and-security)
-   4. [User Support](#user-support)
-4. [Technologies](#technologies)
-5. [Plan and Documentation](#plan-and-documentation)
-   1. [Planning and Design](#planning-and-design)
-   2. [Implementation](#implementation)
-   3. [Testing](#testing)
-   4. [Backup and Security](#backup-and-security-1)
-   5. [Training Materials](#training-materials)
-6. [What I'll Learn](#what-ill-learn)
+1. [Project Overview](#1-project-overview)
+2. [Concept Summary](#2-concept-summaryconcept-summary)
+3. [Key Features](#3-key-featureskey-features)
+   1. [Infrastructure](#31-infrastructure)
+   2. [Code](#32-code)
+   3. [Backup & Security](#33-backup--security)
+   4. [User Support](#34-user-support)
+4. [Technologies](#4-technologies)
+5. [Plan and Documentation](#5-plan-and-documentation)
+   1. [Planning and Design](#51-planning-and-design)
+   2. [Implementation](#52-implementation)
+   3. [Testing](#53-testing)
+   4. [Backup and Security](#54-backup-and-security)
+   5. [Training Materials](#55-training-materials)
+6. [What I'll Learn](#6-what-ill-learn)
 
 ---
 
