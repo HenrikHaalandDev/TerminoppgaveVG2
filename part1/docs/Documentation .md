@@ -1,16 +1,16 @@
-# Henrik Sarawut Bibow Haaland | 2IMA
+**Henrik Sarawut Bibow Haaland | 2IMA**
 
 ## Dates
-- [Henrik Sarawut Bibow Haaland | 2IMA](#henrik-sarawut-bibow-haaland--2ima)
-  - [Dates](#dates)
-  - [Week 42](#week-42)
-    - [Daily Breakdown](#daily-breakdown)
-      - [10/14/2024](#10142024)
-      - [10/15/2024](#10152024)
-      - [10/16/2024](#10162024)
-      - [10/17/2024](#10172024)
-      - [10/18/2024](#10182024)
-    - [Week 42 - Summary](#week-42---summary)
+
+- [Dates](#dates)
+- [Week 42](#week-42)
+  - [Daily Breakdown](#daily-breakdown)
+    - [10/14/2024](#10142024)
+    - [10/15/2024](#10152024)
+    - [10/16/2024](#10162024)
+    - [10/17/2024](#10172024)
+    - [10/18/2024](#10182024)
+  - [Week 42 - Summary](#week-42---summary)
 
 ---
 
