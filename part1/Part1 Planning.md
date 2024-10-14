@@ -6,9 +6,6 @@
    -  [2. Detailed Concept](#detailed-concept)
       - [2.1 Finn.no 2.0](#finnno-20)
 
-## 2. [Part 2](#part-2)
-   - [1.1 Idea Overview](#idea-overview)
-   - [1.2 Detailed Concept](#detailed-concept)
 
 ## Part 1
 ### Idea Overview
