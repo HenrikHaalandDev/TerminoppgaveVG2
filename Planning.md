@@ -36,7 +36,6 @@
       - To let multiple user get access to the website
       - Publish the website (not using github(If im able too))
       - Security
-      - Then a bit of random codes
 
 
 ## Part 2
