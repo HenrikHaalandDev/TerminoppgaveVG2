@@ -1,8 +1,6 @@
 **Henrik Sarawut Bibow Haaland | 2IMA**
 
-## Dates
 
-- [Dates](#dates)
 - [Week 42](#week-42)
   - [Daily Breakdown](#daily-breakdown)
     - [10/14/2024](#10142024)
