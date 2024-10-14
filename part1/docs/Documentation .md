@@ -1,0 +1,48 @@
+# Henrik Sarawut Bibow Haaland | 2IMA
+
+## Dates
+- [Henrik Sarawut Bibow Haaland | 2IMA](#henrik-sarawut-bibow-haaland--2ima)
+  - [Dates](#dates)
+  - [Week 42](#week-42)
+    - [Daily Breakdown](#daily-breakdown)
+      - [10/14/2024](#10142024)
+      - [10/15/2024](#10152024)
+      - [10/16/2024](#10162024)
+      - [10/17/2024](#10172024)
+      - [10/18/2024](#10182024)
+    - [Week 42 - Summary](#week-42---summary)
+
+---
+
+## Week 42 
+
+### Daily Breakdown
+
+#### 10/14/2024
+- **Activities/Notes:**
+  - I have decided on what I will be creating for this semester. I will be creating a Online Shop. A Finn 2.0 
+  - Ive written a ["Planning"](../docs/Part1%20Planning.md). Check it out to get more detailes.
+  - Ive made all the folders I will need for this project (I think). Same with some files. Ive created most of the front-end files such as `HTML`, `CSS` & `JavaScript`.
+#### 10/15/2024
+- **Activities/Notes:**
+  - [Add details here]
+
+#### 10/16/2024
+- **Activities/Notes:**
+  - [Add details here]
+
+#### 10/17/2024
+- **Activities/Notes:**
+  - [Add details here]
+
+#### 10/18/2024
+- **Activities/Notes:**
+  - [Add details here]
+
+### Week 42 - Summary
+- [Optional: Add a brief summary or reflection on the week]
+
+---
+
+
+
