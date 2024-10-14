@@ -13,6 +13,7 @@
 ## Part 1
 ### Idea Overview
 - #### Finn.no - 2.0
+- #### 
 
 ### Detailed Concept
 - ### Finn.no 2.0
