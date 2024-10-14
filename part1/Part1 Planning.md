@@ -1,10 +1,11 @@
 # Terminoppgave VG2
 
 ## 1. [Part 1](#part-1)
-   -  [1. Idea Overview](#idea-overview)
-      - [1.1 Finn.no 2.0](#finnno---20)
-   -  [2. Detailed Concept](#detailed-concept)
-      - [2.1 Finn.no 2.0](#finnno-20)
+- [Terminoppgave VG2](#terminoppgave-vg2)
+  - [1. Part 1](#1-part-1)
+  - [Part 1](#part-1)
+    - [Idea Overview](#idea-overview)
+    - [Detailed Concept](#detailed-concept)
 
 
 ## Part 1
