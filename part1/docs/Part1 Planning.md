@@ -23,7 +23,7 @@
 
 The project aims to build a simplified version of **Finn.no**, a marketplace for buying and selling items. The solution will be developed from scratch, hosted on a Raspberry Pi, and made accessible to users over a network. The project will demonstrate my skills in programming, setting up infrastructure, and providing user support. 
 
-**All code will be hosted on GitHub**, as required.
+[**All code will be hosted on GitHub**](https://github.com/HenrikHaalandDev/TerminoppgaveVG2), as required.
 
 ---
 
