@@ -37,9 +37,3 @@
       - Security
 
 
-## Part 2
-
-### Idea Overview
-
-
-
