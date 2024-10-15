@@ -33,7 +33,7 @@
   - Although, I will use minimal css, my website will only be created to be functional and not styled.
 #### 10/15/2024
 - **Activities/Notes:**
-  - [Add details here]
+  - I've learned a lot about file and folder structure. Now it's much easier for me to navigate, both for myself and for potential future collaborators.
 
 #### 10/16/2024
 - **Activities/Notes:**

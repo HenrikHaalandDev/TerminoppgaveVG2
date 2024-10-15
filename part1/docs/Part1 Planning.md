@@ -1,21 +1,23 @@
-# VG2 Term Project: Finn.no 2.0
+# VG2 Term Project: NetThrifty (Finn.no 2.0)
 
 ### Table of Contents
-1. [Project Overview](#1-project-overview)
-2. [Concept Summary](#2-concept-summaryconcept-summary)
-3. [Key Features](#3-key-featureskey-features)
-   1. [Infrastructure](#31-infrastructure)
-   2. [Code](#32-code)
-   3. [Backup & Security](#33-backup--security)
-   4. [User Support](#34-user-support)
-4. [Technologies](#4-technologies)
-5. [Plan and Documentation](#5-plan-and-documentation)
-   1. [Planning and Design](#51-planning-and-design)
-   2. [Implementation](#52-implementation)
-   3. [Testing](#53-testing)
-   4. [Backup and Security](#54-backup-and-security)
-   5. [Training Materials](#55-training-materials)
-6. [What I'll Learn](#6-what-ill-learn)
+- [VG2 Term Project: NetThrifty (Finn.no 2.0)](#vg2-term-project-netthrifty-finnno-20)
+    - [Table of Contents](#table-of-contents)
+  - [1. Project Overview](#1-project-overview)
+  - [2. Concept Summary](#2-concept-summary)
+  - [3. Key Features](#3-key-features)
+    - [3.1 Infrastructure](#31-infrastructure)
+    - [3.2 Code](#32-code)
+    - [3.3 Backup \& Security](#33-backup--security)
+    - [3.4 User Support](#34-user-support)
+  - [4. Technologies](#4-technologies)
+  - [5. Plan and Documentation](#5-plan-and-documentation)
+    - [5.1 Planning and Design](#51-planning-and-design)
+    - [5.2 Implementation](#52-implementation)
+    - [5.3 Testing](#53-testing)
+    - [5.4 Backup and Security](#54-backup-and-security)
+    - [5.5 Training Materials](#55-training-materials)
+  - [6. What I'll Learn](#6-what-ill-learn)
 
 ---
 
@@ -96,6 +98,7 @@ The solution will focus on basic functionality, security, and ease of use.
 
 - **Setting up infrastructure**: Creating and managing a server and network.
 - **Database management**: Storing and retrieving data in a database.
+- **Good file structure**:Separates code, documentation, and backups, making navigation and collaboration straightforward.
 - **Programming**: Writing code that handles both back-end and front-end operations.
 - **Backup routines**: Implementing backup systems to protect data.
 - **Security**: Ensuring the system complies with security best practices and regulations.
