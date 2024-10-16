@@ -34,10 +34,13 @@
 #### 10/15/2024
 - **Activities/Notes:**
   - I've learned a lot about file and folder structure. Now it's much easier for me to navigate, both for myself and for potential future collaborators.
+  - I need to think about what I want to add in the database. 
+  - I need to figure out how I can chop up this big project in smaller bits, and figure out what I will work on.
 
 #### 10/16/2024
 - **Activities/Notes:**
-  - [Add details here]
+  - Ive done a lot of research at home. I will be ish starting from scratch cause most of the code I wrote wasnt mine either way. Didnt understand half of it. But this time Im lock and loaded.
+  - 
 
 #### 10/17/2024
 - **Activities/Notes:**
